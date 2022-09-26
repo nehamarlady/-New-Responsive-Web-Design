@@ -1,0 +1,3 @@
+[submodule "FirstRepository"]
+	path = FirstRepository
+	url = https://github.com/nehamarlady/FirstRepository.git
